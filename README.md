@@ -1,5 +1,9 @@
 # MGenerator
 
+[![Build Status](https://travis-ci.org/Mathou54/M-Generator.svg?branch=master)](https://travis-ci.org/Mathou54/M-Generator)
+
+Project hosted at: https://m-generator.firebaseapp.com/.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.0.
 
 ## Development server
