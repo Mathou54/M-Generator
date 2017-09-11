@@ -1,0 +1,19 @@
+<div class="m-generator">
+	<div class="row">
+		<div class="col-12">
+			<form class="form-inline form-group row"
+				  name="text-form">
+				<div class="col-md-2"></div>
+				<label for="text" class="col-md-2">Text:</label>
+				<input id="text" type="text" required="required"
+					   class="form-control col-md-4" name="text"
+					   [(ngModel)]="text">
+			</form>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-12 text-center">
+			<span *ngFor="let car of text.split('')" class="character">{{car}}</span>
+		</div>
+	</div>
+</div>

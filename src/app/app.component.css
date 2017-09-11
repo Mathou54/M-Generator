@@ -1,0 +1,13 @@
+.h1 {
+	text-shadow: 1px 0 0 #008AC9, 2px 0 0 #2B115A, 3px 0 0 #F11A22;
+	font-family: Arial, Helvetica, sans-serif;
+	letter-spacing: 5px;
+}
+
+header {
+	margin-top: 5rem;
+}
+
+section {
+	margin-top: 5rem;;
+}
