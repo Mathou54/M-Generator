@@ -1,6 +1,6 @@
 .character {
-  text-shadow: 2px 0px 0 #008AC9, 4px 0px 0 #2B115A, 6px 0px 0 #F11A22;
-  font-size: 5em;
-  font-family: Arial, Helvetica, sans-serif;
-  margin-right: 2px;
+	text-shadow: .4rem 0 0 #008AC9, .8rem 0 0 #2B115A, 1.2rem 0 0 #F11A22;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-right: 1rem;
+	font-size: 15rem;
 }
